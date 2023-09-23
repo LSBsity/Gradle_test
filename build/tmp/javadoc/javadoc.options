@@ -1,0 +1,7 @@
+-classpath '/Users/iseungbin/-study/gradle-test/build/classes/java/main:/Users/iseungbin/-study/gradle-test/build/resources/main'
+-d '/Users/iseungbin/-study/gradle-test/build/docs/javadoc'
+-doctitle 'gradle-test 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'gradle-test 1.0-SNAPSHOT API'
+'/Users/iseungbin/-study/gradle-test/src/main/java/org/example/Main.java'
