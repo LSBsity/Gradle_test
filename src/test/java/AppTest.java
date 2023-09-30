@@ -36,7 +36,7 @@ public class AppTest {
     }
 
     @Test
-    @DisplayName("🦺 널세이프 - 널임")
+    @DisplayName("🦺 널세이프 - 널")
     public void trimTest2() {
         String result = app.trimNullSafe(null);
         Assertions.assertNull(result);
